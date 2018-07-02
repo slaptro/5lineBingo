@@ -1,0 +1,3 @@
+[2018-07-02]
+Project created as a test
+First commit of files
