@@ -1,3 +1,4 @@
+//generate options for number of numbers to use
 for(i = 0; i < 25; i++){
 	document.getElementById("num_select").options[i] = new Option(i+1,i+1);
 }
