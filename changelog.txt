@@ -1,3 +1,7 @@
+[2018-07-05]
+Added bootstrap files
+	index_bs.html for bootstrap version
+
 [2018-07-02]
-Project created as a test
-First commit of files
+Project created as practice
+Initial commit
